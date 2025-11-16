@@ -112,7 +112,7 @@ ${description}
 Read here: ${blogUrl}`,
       html: `
         <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-          <h2>🆕 New Blog Published on TownMate</h2>
+          <h2>🆕 New Blog Published on the TownMate</h2>
           <h3>${title}</h3>
           <p>${description}</p>
           <p>
